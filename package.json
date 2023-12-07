@@ -8,7 +8,11 @@
   },
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "ffcreator": "^6.7.5"
+  "devDependencies": {},
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "ffcreator": "^7.2.2",
+    "fluent-ffmpeg": "^2.1.2",
+    "gl": "^6.0.2"
   }
 }

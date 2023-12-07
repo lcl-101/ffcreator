@@ -13,3 +13,6 @@ output
 *.ntvs*
 *.njsproj
 *.sln
+
+asset/
+package-lock.json
